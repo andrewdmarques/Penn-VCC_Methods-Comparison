@@ -210,4 +210,8 @@ Examples:
 - Method criteria alone may not completely describe sequencing characteristics, this should be taken into consideration with the run_setup, reverse_transcriptase, and polymerase variables in additiona to detailed understanding of the individuals protocols described.
 - Homogenate differences may introduce variation between assays derived from the same participant/timepoint/specimen.
 - Several of the samples from Liang et al., were unclear which timepoint they originated from. A best effort to identify the correct timepoint was made but 1-2 of the samples have ambiguous encoding for the timepoint and could be a participant's stool from a different timepoint.
-- Some of the samples are confirmed to be decontaminated (Moustafa Lab processed samples), while others (SRA downloaded samples from Guanxiang et al.) may have had and samples decontaminated with host reads removed by an older version of sunbeam. 
+- Some of the samples are confirmed to be decontaminated (Moustafa Lab processed samples), while others (SRA downloaded samples from Guanxiang et al.) may have had and samples decontaminated with host reads removed by an older version of sunbeam.
+
+## Data Download
+ 
+[Download Data Here (Penn+Box Login Required)](https://upenn.box.com/s/o2jmdv125yxm4k4gl3l3rvqqfirxdmcy)
