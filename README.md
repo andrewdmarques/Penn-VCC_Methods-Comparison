@@ -215,3 +215,5 @@ Examples:
 ## Data Download
  
 [Download Data Here (Penn+Box Login Required)](https://upenn.box.com/s/o2jmdv125yxm4k4gl3l3rvqqfirxdmcy)
+
+[Download Viral Variant Calls from GeNomad Here doi:10.5281/zenodo.21838635](https://doi.org/10.5281/zenodo.21838635)
