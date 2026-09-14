@@ -215,11 +215,11 @@ Examples:
 
 ## Data Download
  
-[Download Fastq Data for Six Methods Here (Penn+Box Login Required)](https://upenn.box.com/s/o2jmdv125yxm4k4gl3l3rvqqfirxdmcy)
+- [Download Fastq Data for Six Methods Here (Penn+Box Login Required)](https://upenn.box.com/s/o2jmdv125yxm4k4gl3l3rvqqfirxdmcy)
 
-[Download Viral Variant Calls from Six Methods GeNomad Here doi:10.5281/zenodo.21838635](https://doi.org/10.5281/zenodo.21838635)
+- [Download Viral Variant Calls from Six Methods GeNomad Here doi:10.5281/zenodo.21838635](https://doi.org/10.5281/zenodo.21838635)
 
-[Download Viral Variant Calls from Three Methods GeNomad Here (Penn+Box Login Required)](https://upenn.box.com/s/couy37arpds1swc2yz7leudg02jzganl)
+- [Download Viral Variant Calls from Three Methods GeNomad Here (Penn+Box Login Required)](https://upenn.box.com/s/couy37arpds1swc2yz7leudg02jzganl)
 
 
 
