@@ -211,9 +211,11 @@ Examples:
 - Homogenate differences may introduce variation between assays derived from the same participant/timepoint/specimen.
 - Several of the samples from Liang et al., were unclear which timepoint they originated from. A best effort to identify the correct timepoint was made but 1-2 of the samples have ambiguous encoding for the timepoint and could be a participant's stool from a different timepoint.
 - Some of the samples are confirmed to be decontaminated (Moustafa Lab processed samples), while others (SRA downloaded samples from Guanxiang et al.) may have had and samples decontaminated with host reads removed by an older version of sunbeam.
+- The Exported data for the three methods comparison containing 84 paired samples was trimmed to only contain *_virus_summary.tsv and *_virus.fna files due to issues with file sizes. Directory structure remains unchanged. 
 
 ## Data Download
  
-[Download Data Here (Penn+Box Login Required)](https://upenn.box.com/s/o2jmdv125yxm4k4gl3l3rvqqfirxdmcy)
+[Download Fastq Data for Six Methods Here (Penn+Box Login Required)](https://upenn.box.com/s/o2jmdv125yxm4k4gl3l3rvqqfirxdmcy)
+[Download Viral Variant Calls from Six Methods GeNomad Here doi:10.5281/zenodo.21838635](https://doi.org/10.5281/zenodo.21838635)
+[Download Viral Variant Calls from Three Methods GeNomad Here (Penn+Box Login Required)](https://upenn.box.com/s/couy37arpds1swc2yz7leudg02jzganl)
 
-[Download Viral Variant Calls from GeNomad Here doi:10.5281/zenodo.21838635](https://doi.org/10.5281/zenodo.21838635)
